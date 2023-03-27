@@ -9,3 +9,6 @@ This app aims to address several challenges that elderly individuals may face, s
 
 ## Website
 https://zhangleon01.wixsite.com/wellconnect 
+
+## Figma
+https://www.figma.com/file/maa2VEoedCMQNw3imS7Hze/WellConnect?node-id=0%3A1&t=KBTk5O0mStw9OoCx-1
